@@ -1,9 +1,8 @@
 # paper
 
-## Data paralle
 
 ## Pipeline Model Parallelism
-[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+[PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf), sosp19
 
 [GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism](https://arxiv.org/pdf/1811.06965.pdf)
 
@@ -15,5 +14,8 @@
 
 [XPipe: Efficient Pipeline Model Parallelism for Multi-GPU DNN Training](https://arxiv.org/pdf/1911.04610.pdf)
 
+
+## Beyond data and model parallelism
+[Beyond Data and Model Parallelism for Deep Neural Networks](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf)
 
 
