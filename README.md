@@ -1,5 +1,5 @@
 # paper
-
+All the papers below are about machine learning system.
 
 ## Pipeline Model Parallelism
 [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf), SOSP19
@@ -21,5 +21,9 @@
 
 ## Resource Schedule
 [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
+
+## Network optimization
+[Optimizing Network Performance for Distributed DNN Training
+on GPU Clusters: ImageNet/AlexNet Training in 1.5 Minutes](https://arxiv.org/pdf/1902.06855.pdf)
 
 
