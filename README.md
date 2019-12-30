@@ -30,5 +30,5 @@ Optimizing Network Performance for Distributed DNN Training
 on GPU Clusters: ImageNet/AlexNet Training in 1.5 Minutes [[Paper]](https://arxiv.org/pdf/1902.06855.pdf)
 
 ## Inference
-Optimizing CNN Model Inference on CPUs (ATC 2019) [[Paper]](https://www.usenix.org/conference/atc19/presentation/liu-yizhi)
+Optimizing CNN Model Inference on CPUs (*ATC 2019*) [[Paper]](https://www.usenix.org/conference/atc19/presentation/liu-yizhi)
 
