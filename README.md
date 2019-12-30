@@ -2,7 +2,7 @@
 All the papers below are about machine learning system.
 
 ## Pipeline Model Parallelism
-PipeDream: Generalized Pipeline Parallelism for DNN Training (SOSP2019) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+PipeDream: Generalized Pipeline Parallelism for DNN Training (*SOSP2019*) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
 
 GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)
 
@@ -19,7 +19,7 @@ XPipe: Efficient Pipeline Model Parallelism for Multi-GPU DNN Training [[Paper]]
 Beyond Data and Model Parallelism for Deep Neural Networks [[Paper]](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf)
 
 ## Communication Schedule
-A Generic Communication Scheduler for Distributed DNN Training Acceleration [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) 
+A Generic Communication Scheduler for Distributed DNN Training Acceleration (*SOSP 2019*) [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) [[BytePS]](https://github.com/bytedance/byteps)
 
 
 ## Resource Schedule
