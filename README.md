@@ -18,6 +18,9 @@ All the papers below are about machine learning system.
 ## Beyond data and model parallelism
 [Beyond Data and Model Parallelism for Deep Neural Networks](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf)
 
+## Communication Schedule
+[A Generic Communication Scheduler for Distributed DNN Training Acceleration](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) 
+
 
 ## Resource Schedule
 [Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
