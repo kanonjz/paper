@@ -12,6 +12,8 @@ PipeMare: Asynchronous Pipeline Parallel DNN Training [[Paper]](https://arxiv.or
 
 ElasticPipe: An Efficient and Dynamic Model-Parallel Solution to DNN Training [[Paper]](https://dl.acm.org/citation.cfm?id=3331463)
 
+Horizontal or Vertical? A Hybrid Approach to Large-Scale Distributed Machine Learning [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3322795.3331461?download=true)
+
 XPipe: Efficient Pipeline Model Parallelism for Multi-GPU DNN Training [[Paper]](https://arxiv.org/pdf/1911.04610.pdf)
 
 
