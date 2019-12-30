@@ -2,7 +2,7 @@
 All the papers below are about machine learning system.
 
 ## Pipeline Model Parallelism
-PipeDream: Generalized Pipeline Parallelism for DNN Training (*SOSP2019*) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
+PipeDream: Generalized Pipeline Parallelism for DNN Training (*SOSP2019*) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) [[Slide]](https://sosp19.rcs.uwaterloo.ca/slides/narayanan.pdf) [[Talk]](https://sosp19.rcs.uwaterloo.ca/videos/D1-S1-P1.mp4)
 
 GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)
 
