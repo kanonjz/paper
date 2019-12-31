@@ -23,6 +23,8 @@ Beyond Data and Model Parallelism for Deep Neural Networks [[Paper]](https://cs.
 ## Communication Schedule
 A Generic Communication Scheduler for Distributed DNN Training Acceleration (*SOSP 2019*) [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) [[BytePS]](https://github.com/bytedance/byteps)
 
+TicTac: Accelerating Distributed Deep Learning with Communication Scheduling (SysML 2019) [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/199.pdf)
+
 
 ## Resource Schedule
 Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
