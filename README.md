@@ -25,6 +25,7 @@ A Generic Communication Scheduler for Distributed DNN Training Acceleration (*SO
 
 TicTac: Accelerating Distributed Deep Learning with Communication Scheduling (SysML 2019) [[Paper]](https://mlsys.org/Conferences/2019/doc/2019/199.pdf)
 
+Distributed Equivalent Substitution Training for Large-Scale Recommender Systems (SysML 2019) [[Paper]](https://arxiv.org/pdf/1909.04823.pdf)
 
 ## Resource Schedule
 Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
