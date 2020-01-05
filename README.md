@@ -30,6 +30,8 @@ Distributed Equivalent Substitution Training for Large-Scale Recommender Systems
 ## Resource Schedule
 Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
 
+Gandiva: Introspective Cluster Scheduling for Deep Learning (*OSDI 2018*) [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
+
 ## Network optimization
 Optimizing Network Performance for Distributed DNN Training
 on GPU Clusters: ImageNet/AlexNet Training in 1.5 Minutes [[Paper]](https://arxiv.org/pdf/1902.06855.pdf)
