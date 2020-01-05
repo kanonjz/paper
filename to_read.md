@@ -4,4 +4,4 @@
 
 
 ### link
-- Awesome-Distributed-Deep-Learning [[github]](https://github.com/bharathgs/Awesome-Distributed-Deep-Learning/blob/master/README.md#frameworks)
+- Awesome-Distributed-Deep-Learning [[GitHub]](https://github.com/bharathgs/Awesome-Distributed-Deep-Learning/blob/master/README.md#frameworks)
