@@ -8,5 +8,5 @@ Scaling Distributed Machine Learning with the Parameter Server (*OSDI 2014*)[[Pa
 
 Revisiting Distributed Synchronous SGD [[Paper]](https://arxiv.org/abs/1604.00981)
 
-## neural Network Search
+## Neural Network Search
 Neural Architecture Search with Reinforcement Learning (*ICLR2017*) [[Paper]](https://research.google/pubs/pub45826/)
