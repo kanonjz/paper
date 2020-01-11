@@ -10,3 +10,7 @@ Revisiting Distributed Synchronous SGD [[Paper]](https://arxiv.org/abs/1604.0098
 
 ## Neural Network Search
 Neural Architecture Search with Reinforcement Learning (*ICLR2017*) [[Paper]](https://research.google/pubs/pub45826/)
+
+## SGD
+Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[Paper]](https://arxiv.org/pdf/1706.02677.pdf)
+
