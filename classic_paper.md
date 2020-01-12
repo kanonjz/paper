@@ -13,5 +13,6 @@ Neural Architecture Search with Reinforcement Learning (*ICLR2017*) [[Paper]](ht
 
 ## SGD
 Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[Paper]](https://arxiv.org/pdf/1706.02677.pdf)
+
 Asynchronous Decentralized Parallel Stochastic Gradient Descent (*ICML 2018*) [[Paper]](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf)
 
