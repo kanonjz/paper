@@ -18,6 +18,8 @@ XPipe: Efficient Pipeline Model Parallelism for Multi-GPU DNN Training [[Paper]]
 
 Reduce the Training Time of Neural Networks by Partitioning [[Paper]](https://arxiv.org/pdf/1511.02954.pdf)
 
+STRADS: a distributed framework for scheduled model parallel machine learning (*EuroSys 2016*)[[Paper]](https://dl.acm.org/doi/10.1145/2901318.2901331)
+
 ## Beyond data and model parallelism
 Beyond Data and Model Parallelism for Deep Neural Networks [[Paper]](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf)
 
