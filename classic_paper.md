@@ -20,3 +20,4 @@ Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [[Paper]](https://arx
 
 [AD-PSGD] Asynchronous Decentralized Parallel Stochastic Gradient Descent (*ICML 2018*) [[Paper]](http://proceedings.mlr.press/v80/lian18a/lian18a.pdf)
 
+Heterogeneity-Aware Asynchronous Decentralized Training [[https://arxiv.org/abs/1909.08029]]
