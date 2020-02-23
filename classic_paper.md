@@ -6,6 +6,8 @@ Rethinking the Inception Architecture for Computer Vision [[inception_v3]](https
 ## Parameter Server
 Scaling Distributed Machine Learning with the Parameter Server (*OSDI 2014*)[[Paper]](https://www.cs.cmu.edu/~muli/file/parameter_server_osdi14.pdf)
 
+Project Adam: Building an Efficient and Scalable Deep Learning Training System (*OSDI 2014*)[[Paper]](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/chilimbi)
+
 Revisiting Distributed Synchronous SGD [[Paper]](https://arxiv.org/abs/1604.00981)
 
 ## Neural Network Search
