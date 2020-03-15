@@ -1,7 +1,7 @@
 # paper
 All the papers below are about machine learning system.
 
-## Model Parallelism
+## Parallelism
 PipeDream: Generalized Pipeline Parallelism for DNN Training (*SOSP2019*) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) [[Slide]](https://sosp19.rcs.uwaterloo.ca/slides/narayanan.pdf) [[Talk]](https://sosp19.rcs.uwaterloo.ca/videos/D1-S1-P1.mp4)
 
 GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf) [[Code]](https://github.com/kakaobrain/torchgpipe)
@@ -20,7 +20,6 @@ Reduce the Training Time of Neural Networks by Partitioning [[Paper]](https://ar
 
 STRADS: a distributed framework for scheduled model parallel machine learning (*EuroSys 2016*)[[Paper]](https://dl.acm.org/doi/10.1145/2901318.2901331)
 
-## Beyond data and model parallelism
 Beyond Data and Model Parallelism for Deep Neural Networks [[Paper]](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf)
 
 ## Communication Schedule
