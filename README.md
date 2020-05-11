@@ -29,6 +29,8 @@ TicTac: Accelerating Distributed Deep Learning with Communication Scheduling (Sy
 
 Distributed Equivalent Substitution Training for Large-Scale Recommender Systems (SysML 2019) [[Paper]](https://arxiv.org/pdf/1909.04823.pdf)
 
+Geryon: Accelerating Distributed CNN Training byNetwork-Level Flow Scheduling (INFOCOM 2020) [[Paper]](https://office365stanford-my.sharepoint.com/personal/gjk1994_stanford_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgjk1994%5Fstanford%5Fedu%2FDocuments%2FPapers%2FINFOCOM20%5FGeryon%2Epdf&parent=%2Fpersonal%2Fgjk1994%5Fstanford%5Fedu%2FDocuments%2FPapers&originalPath=aHR0cHM6Ly9vZmZpY2UzNjVzdGFuZm9yZC1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9namsxOTk0X3N0YW5mb3JkX2VkdS9FVi1yc25HRHNWcEtqMVAteDJGMDZZQUI0TllzNDlKT29qTm50TXpEdE8xOWRRP3J0aW1lPW8tM09XRm4xMTBn)
+
 ## Resource Schedule
 Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
 
